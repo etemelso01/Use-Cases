@@ -1,3 +1,4 @@
+An example of Use Cases Created for a nonprofit company, done in a group:
 <h2>Use Case Scenarios</h2>
 <p>To address the system’s objectives effectively, we have developed a comprehensive set of use cases that outline user interactions for accomplishing various tasks within the system. Each use case includes a unique name, primary actor, concise description, and a designated risk level, ensuring a clear, user-centered approach. In alignment with UML and the Unified Process principles, each use case captures a distinct action initiated by an actor, written from the actor's perspective to reflect real user intentions and system responses. Risk levels for each use case are determined according to the criteria outlined in the ‘Risk Analysis’ section, helping to prioritize system functionality based on potential impact and complexity.</p>
 
